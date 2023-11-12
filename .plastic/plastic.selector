@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 repository "Lost Stars@PoyoCorp@cloud"
   path "/"
     br "/main"
     co "/main"
+=======
+repository "Lost Stars@PoyoCorp@cloud"
+  path "/"
+    br "/main"
+    co "/main"
+>>>>>>> Stashed changes
