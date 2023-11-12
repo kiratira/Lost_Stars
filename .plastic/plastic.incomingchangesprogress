@@ -1,0 +1,28 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      4
+    ],
+    "SourceCsetId": 5,
+    "DestinationCsetId": 4,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Scenes/SampleScene.unity",
+        "ItemId": 166,
+        "ParentItemId": 163,
+        "BaseRevId": 156,
+        "SourceRevId": 182,
+        "DestinationRevId": 156
+      },
+      {
+        "Path": "/Assets/Scripts/Deplacement.cs",
+        "ItemId": 176,
+        "ParentItemId": 173,
+        "BaseRevId": 178,
+        "SourceRevId": 183,
+        "DestinationRevId": 178
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+repository "Lost Stars@PoyoCorp@cloud"
+  path "/"
+    br "/main"
+    co "/main"
